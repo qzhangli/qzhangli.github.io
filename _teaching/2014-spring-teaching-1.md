@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "TA experience 1"
+collection: TA
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of California, Irvine"
+date: 2019-09-20
+location: "Irvine, CA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+UNI AFF 1A LEC N: STUDT PARTICIPATION
+* Course Description: I-STEPS course focuses on providing information on resources, services and opportunities to assist and encourage international students in their transition to UCI and the U.S., and provide guidance to meet their educational and personal goals. Each class will explore a different topic and provide opportunities to learn and share experiences in a comfortable and supportive environment. I-STEPS will foster the development of community among international students, assist with building new relationships and creating a support system. Students will become familiar with a variety of UCI services and resources; explore transition and adjustment topics; learn about U.S. culture; and develop awareness of their cultural contributions to the U.S and UCI.
