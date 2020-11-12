@@ -15,7 +15,7 @@ Education
 
 Awards
 ======
-* Summer Undergraduate Research Program Fellowship at UCI </ul> {% https://www.urop.uci.edu/SURP.html %} </ul>
+* [Summer Undergraduate Research Program Fellowship at UCI](https://www.urop.uci.edu/SURP.html)
 
 Research experience
 ======
