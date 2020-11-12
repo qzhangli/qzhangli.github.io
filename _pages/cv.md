@@ -17,6 +17,14 @@ Awards
 ======
 * [Summer Undergraduate Research Program Fellowship at UCI](https://www.urop.uci.edu/SURP/Recipients/grant_recipients.pdf)
 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Research experience
 ======
 * March 2020 – Present: Harnessing Machine-Learning to Personalize Cleft Lip Markings
@@ -33,6 +41,7 @@ Research experience
   * Researcher, California Plug Load Research Center (CalPlug) of UCI
   * Duties included: Developed a plug load simulator using Python, which precisely calculates the energy consumption. Worked on debugging/troubleshooting issues in the software before launching; Tested the usability of the software and worked to optimize the user manual; Conducted performance testing of the system in different operating environments to identify potential bugs and worked on fixing them.
   * Supervisor: Dr. Michael Klopfer
+ 
  
 Independent course project
 ======
@@ -59,11 +68,6 @@ Skills
 * Operating System: MacOS, Windows, Linux.
 * Tools: Google Cloud Platform, Amazon Web Services, Eclipse, PyCharm, CLion, Visual Studio, Arduino, Anaconda, Jupyter notebook, Unity.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 ======
