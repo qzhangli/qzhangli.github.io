@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Harnessing Machine-learning to Personalize Cleft Lip Markings"
+collection: Plastic and Reconstructive Surgery Global Open
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: '2020 Sep; 8(9 Suppl): 150-151.'
+date: 2020-09
+paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553408/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[View paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553408/)
+Abstract:
+* We developed a machine-learning algorithm which reliably places anthropological landmarks on unilateral cleft-lip pictures in order to guide intraoperative markings. We utilized High-Resolution Net (HRNet), a recent family of deep learning models that has achieved state of the art results in many computer-vision tasks, including facial landmark detection. For model evaluation, we calculated error using the Normalized Mean Error (NME), an evaluation metric in facial landmark detection. Our results illustrate the possibility of leveraging relatively small amounts of data to achieve surprisingly accurate labeling in cleft-lip annotations. In the future, we plan on physically projecting these markings onto the surface of cleft-lips, using technology developed by our team, thereby overcoming discrepancies related to paper to 3-dimensional marking 
