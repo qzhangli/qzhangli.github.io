@@ -15,7 +15,6 @@ More info about me can be found in [my CV](https://qzhangli.github.io/cv/).\
 <center>Updated Nov. 11, 2020</center>
 <br/><br/>
 <br/><br/>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=F46hZwbBuEuxB6Ekq2NVZ0QFrMHj83qd0tzocPtpMJg"></script>
 <br/><br/>
 <br/><br/>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NhU8FlF82efSr5a5f4GrETxbYTBuqgLLi2uyNcM6_1o&cl=ffffff&w=a"></script>
