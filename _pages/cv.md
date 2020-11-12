@@ -13,6 +13,10 @@ Education
 ======
 * B.S. in Computer Science, University of California, Irvine, 2021 (expected)
 
+Awards
+======
+* Summer Undergraduate Research Program Fellowship at UCI </ul> {% https://www.urop.uci.edu/SURP.html %} </ul>
+
 Research experience
 ======
 * March 2020 – Present: Harnessing Machine-Learning to Personalize Cleft Lip Markings
