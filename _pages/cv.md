@@ -52,7 +52,7 @@ Independent course project
 
 * ChatbotSteve  Oct. 2020 – Dec. 2020
   * Implement user text/speech recognition to control the character. Our approach to understanding human text relies on NLP. The actions ranges from basic commands (walk, jump, crouch, turn) to more complicated ones (find animals/objects, feed/kill them, etc.). We implemented the agent to understand compound sentences, allowing Steve to perform more than one action at a time.
-  * <iframe width="448" height="252" src="https://www.youtube.com/embed/-h_ab_9RHSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  * <iframe width="268" height="150" src="https://www.youtube.com/embed/-h_ab_9RHSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Snake Game Project  July 2019 - Aug. 2019
   * Implemented the snake game which was meant for human and AI players in PyGame, with fluid and arresting UI, smooth sound effects, and background music.
