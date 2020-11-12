@@ -3,7 +3,7 @@ title: "Harnessing Machine-learning to Personalize Cleft Lip Markings"
 collection: Plastic and Reconstructive Surgery Global Open
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '2020 Sep; 8(9 Suppl): 150-151.'
-date: 2020-09
+date: 2020-09-01
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553408/'
 ---
 [View paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553408/)
