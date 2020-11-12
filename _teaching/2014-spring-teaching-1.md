@@ -2,7 +2,7 @@
 title: "TA experience 1"
 collection: TA
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: http://catalogue.uci.edu/allcourses/uni_aff/
 venue: "University of California, Irvine"
 date: 2019-09-20
 location: "Irvine, CA"
