@@ -15,10 +15,14 @@ More info about me can be found in [my CV](https://qzhangli.github.io/cv/).
 <br/><br/>
 <br/><br/>
 <br/><br/>
+1
 <br/><br/>
 <br/><br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=NhU8FlF82efSr5a5f4GrETxbYTBuqgLLi2uyNcM6_1o&cmo=ffffff&cmn=ffffff&co=ffffff'>
-    $(".ignore-click").click(function(){
-        return false;
-    })
+        for (var i = 0; i < document.getElementsByClassName("ignore-click").length; i++) {
+            document.getElementsByClassName("ignore-click")[i].addEventListener('click', function (event) {
+                event.preventDefault();
+                return false;
+            });
+        }
 </script>
