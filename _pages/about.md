@@ -14,4 +14,4 @@ More info about me can be found in [my CV](https://qzhangli.github.io/cv/).
 <br/><br/>
 <br/><br/>
 <br/><br/>
-[comment]: <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NhU8FlF82efSr5a5f4GrETxbYTBuqgLLi2uyNcM6_1o&cl=ffffff&w=a"></script>
+[comment]: <<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NhU8FlF82efSr5a5f4GrETxbYTBuqgLLi2uyNcM6_1o&cl=ffffff&w=a"></script>>
