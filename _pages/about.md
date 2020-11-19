@@ -17,9 +17,10 @@ More info about me can be found in [my CV](https://qzhangli.github.io/cv/).
 <br/><br/>
 <br/><br/>
 
-<!-- hitwebcounter Code START -->
+<!-- hitwebcounter Code START 
 Visiter <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7713487&style=0007&nbdigits=5&type=page&initCount=900" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>
+-->
 
 <!-- visitermap Code START -->
 <br/><br/>
