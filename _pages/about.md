@@ -12,4 +12,8 @@ As an undergraduate at UCI, I studied computer science with a concentration on i
 More info about me can be found in [my CV](https://qzhangli.github.io/cv/).
 <center>Updated Nov. 11, 2020 </center>
 <br/><br/>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7713484&style=0024&nbdigits=6&type=page&initCount=666" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>
+<br/><br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=n&d=NhU8FlF82efSr5a5f4GrETxbYTBuqgLLi2uyNcM6_1o&co=ffffff&cmo=ffffff&cmn=ffffff'></script>
