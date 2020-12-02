@@ -54,6 +54,7 @@ Independent course project
   * Implement user text/speech recognition to control the character. Our approach to understanding human text relies on NLP. The actions ranges from basic commands (walk, jump, crouch, turn) to more complicated ones (find animals/objects, feed/kill them, etc.). We implemented the agent to understand compound sentences, allowing Steve to perform more than one action at a time.
   * Sample Input: “find a chicken, then kill two pigs, finally jump 5”
   <iframe width="560" height="315" src="https://www.youtube.com/embed/XkKWG6TtY-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Status
   <iframe width="268" height="180" src="https://www.youtube.com/embed/-h_ab_9RHSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
