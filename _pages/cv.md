@@ -55,8 +55,8 @@ Independent course project
   * Sample Input: “find a chicken, then kill two pigs, finally jump 5”
   <iframe width="560" height="315" src="https://www.youtube.com/embed/XkKWG6TtY-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-  * Status
-  <iframe width="268" height="180" src="https://www.youtube.com/embed/-h_ab_9RHSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  * Testing with coreference resolution
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nMv0uT_Y1SY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Snake Game Project  July 2019 - Aug. 2019
   * Implemented the snake game which was meant for human and AI players in PyGame, with fluid and arresting UI, smooth sound effects, and background music.
