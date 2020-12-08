@@ -29,18 +29,18 @@ Research experience
 ======
 * **March 2020 – Present: Harnessing Machine-Learning to Personalize Cleft Lip Markings**
   * Summer Undergraduate Research Program Fellow at UCI
-  * Duties included: Garnered 460 images of cleft lip, annotated the images with the anthropometric landmarks, and split them into training and testing groups by a ratio of four to one; Developed an algorithm for generating the most optimal cleft markings and projecting them onto surgical sites with the application of High-Resolution Network (HR-Net); Tested the effectiveness of the algorithm repeatedly by instantly changing the input images as well as modifying python code, with the machine learning model finally realizing low prediction errors ranging from 3.5 to 6.6 pixels for all the 21 anthropometric landmarks; Built an overseas teaching platform integrating a Raspberry Pi HQ camera and 1080P HD projector, with the responsibility on my part of developing the software that allowed users to manually modify the landmarks labeled by the pre-trained model or to mark the real-time video footage on the touch screen.
   * Supervisor: Dr. Raj M. Vyas
+  * Duties included: Garnered 460 images of cleft lip, annotated the images with the anthropometric landmarks, and split them into training and testing groups by a ratio of four to one; Developed an algorithm for generating the most optimal cleft markings and projecting them onto surgical sites with the application of High-Resolution Network (HR-Net); Tested the effectiveness of the algorithm repeatedly by instantly changing the input images as well as modifying python code, with the machine learning model finally realizing low prediction errors ranging from 3.5 to 6.6 pixels for all the 21 anthropometric landmarks; Built an overseas teaching platform integrating a Raspberry Pi HQ camera and 1080P HD projector, with the responsibility on my part of developing the software that allowed users to manually modify the landmarks labeled by the pre-trained model or to mark the real-time video footage on the touch screen.
 
 * **Feb. 2020 – June 2020: Nano-Microbubble Machine Project**
   * Researcher, California Plug Load Research Center (CalPlug) of UCI
-  * Duties included: Design the UI for the LCD touch screen of the machine using the Arduino UNO board so that users could adjust the running time of the machine and the dosage of medicine. Developed the functional breadboard program for the machine using Arduino Mega 2560 board and imported it into the LCD hardware, which enabled the two-way data communication and transference between the LCD screen and the breadboard.
   * Supervisor: Dr. Alan D. Widgerow
+  * Duties included: Design the UI for the LCD touch screen of the machine using the Arduino UNO board so that users could adjust the running time of the machine and the dosage of medicine. Developed the functional breadboard program for the machine using Arduino Mega 2560 board and imported it into the LCD hardware, which enabled the two-way data communication and transference between the LCD screen and the breadboard.
 
 * **Jan. 2020 – April 2020: Plug Load Energy Usage Simulator**
   * Researcher, California Plug Load Research Center (CalPlug) of UCI
-  * Duties included: Developed a plug load simulator using Python, which precisely calculates the energy consumption. Worked on debugging/troubleshooting issues in the software before launching; Tested the usability of the software and worked to optimize the user manual; Conducted performance testing of the system in different operating environments to identify potential bugs and worked on fixing them.
   * Supervisor: Dr. Michael J. Klopfer
+  * Duties included: Developed a plug load simulator using Python, which precisely calculates the energy consumption. Worked on debugging/troubleshooting issues in the software before launching; Tested the usability of the software and worked to optimize the user manual; Conducted performance testing of the system in different operating environments to identify potential bugs and worked on fixing them.
  
  
 Independent course project
