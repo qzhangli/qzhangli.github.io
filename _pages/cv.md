@@ -40,7 +40,7 @@ Research experience
 * **Jan. 2020 – April 2020: Plug Load Energy Usage Simulator**
   * Researcher, California Plug Load Research Center (CalPlug) of UCI
   * Duties included: Developed a plug load simulator using Python, which precisely calculates the energy consumption. Worked on debugging/troubleshooting issues in the software before launching; Tested the usability of the software and worked to optimize the user manual; Conducted performance testing of the system in different operating environments to identify potential bugs and worked on fixing them.
-  * Supervisor: Dr. Michael Klopfer
+  * Supervisor: Dr. Michael J. Klopfer
  
  
 Independent course project
