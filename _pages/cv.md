@@ -54,11 +54,10 @@ Independent course project
   * Implement user text/speech recognition to control the character. Our approach to understanding human text relies on NLP. The actions ranges from basic commands (walk, jump, crouch, turn) to more complicated ones (find animals/objects, feed/kill them, etc.). We implemented the agent to understand compound sentences, allowing Steve to perform more than one action at a time.
   * Testing with coreference resolution
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nMv0uT_Y1SY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  * Sample Input: “find a chicken, then kill two pigs, finally jump 5”
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XkKWG6TtY-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  * [More Tests](https://www.youtube.com/embed/XkKWG6TtY-c)
 
-* **Spytegy - Multiplayer Espionage Board Game Oct. 2020 – Dec. 2020**
+
+* **Spytegy - Multiplayer Espionage Board Game (In progress) Oct. 2020 – Dec. 2020**
   * [check it here!](https://www.spytegy.com)
 
 * **Snake Game Project  July 2019 - Aug. 2019**
