@@ -35,7 +35,7 @@ Research experience
 * **Feb. 2020 – June 2020: Nano-Microbubble Machine Project**
   * Researcher, California Plug Load Research Center (CalPlug) of UCI
   * Duties included: Design the UI for the LCD touch screen of the machine using the Arduino UNO board so that users could adjust the running time of the machine and the dosage of medicine. Developed the functional breadboard program for the machine using Arduino Mega 2560 board and imported it into the LCD hardware, which enabled the two-way data communication and transference between the LCD screen and the breadboard.
-  * Supervisor: Dr. Raj M. Vyas
+  * Supervisor: Dr. Alan D. Widgerow
 
 * **Jan. 2020 – April 2020: Plug Load Energy Usage Simulator**
   * Researcher, California Plug Load Research Center (CalPlug) of UCI
