@@ -58,6 +58,9 @@ Independent course project
   * Sample Input: “find a chicken, then kill two pigs, finally jump 5”
   <iframe width="560" height="315" src="https://www.youtube.com/embed/XkKWG6TtY-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* **Spytegy - Multiplayer Espionage Board Game Oct. 2020 – Dec. 2020**
+  * [check it here!](https://www.spytegy.com)
+
 * **Snake Game Project  July 2019 - Aug. 2019**
   * Implemented the snake game which was meant for human and AI players in PyGame, with fluid and arresting UI, smooth sound effects, and background music.
 
