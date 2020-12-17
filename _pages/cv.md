@@ -54,6 +54,7 @@ Independent course project
   * Implement user text/speech recognition to control the character. Our approach to understanding human text relies on NLP. The actions ranges from basic commands (walk, jump, crouch, turn) to more complicated ones (find animals/objects, feed/kill them, etc.). We implemented the agent to understand compound sentences, allowing Steve to perform more than one action at a time.
   * [Testing with coreference resolution](https://www.youtube.com/embed/nMv0uT_Y1SY)  
   * [More Tests](https://www.youtube.com/embed/XkKWG6TtY-c)
+  * [website here](https://rohanmannem.github.io/ChatbotSteve/final.html)
 
 
 * **Spytegy - Multiplayer Espionage Board Game (In progress) Oct. 2020 – Dec. 2020**
